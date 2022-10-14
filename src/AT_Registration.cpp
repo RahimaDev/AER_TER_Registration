@@ -750,7 +750,7 @@ int main (int argc, char** argv)
 
 
                             }}}}}}}
-    while (k<1500);
+    while (k<150000);
     std::cout<<Tr<<std::endl;
     std::cout<<"Angle="<< angles(R2)<<std::endl;
     qt.linear()=R2;
